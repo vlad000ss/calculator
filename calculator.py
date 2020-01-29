@@ -4,7 +4,7 @@ import math
 
 class Operation(enum.Enum):
     add = 1
-    sub = 10
+    sub = 2
     mult = 3
     div = 4
 
