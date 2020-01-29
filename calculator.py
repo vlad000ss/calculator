@@ -1,11 +1,10 @@
 from tkinter import *
 import enum
 import math
-from calc_logic import *
 
 class Operation(enum.Enum):
     add = 1
-    sub = 2
+    sub = 10
     mult = 3
     div = 4
 
